@@ -52,7 +52,3 @@ This repository contains **two** applications:
 > **“SeamlessVR: Bridging the Immersive to Non-Immersive Visualization Divide”**
 
 For questions or feedback, please [open an issue](../../issues) or contact the authors.
-
----
-
-*Thank you for exploring SeamlessVR!*
