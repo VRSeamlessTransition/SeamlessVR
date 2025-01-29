@@ -4,7 +4,6 @@
 
 *SeamlessVR* is a novel method that smoothly transitions a user’s view from an immersive VR headset to a non-immersive on-screen display. During headset removal, *SeamlessVR* continuously morphs the 3D visualization into 2D, matching what users will see on their monitor. This transition reduces cognitive overhead and allows users to continue visualization tasks seamlessly on screen.
 
----
 
 ## Requirements
 
@@ -13,7 +12,6 @@
 - **Unity 2022.3.17f1** (or newer)  
 - **Meta XR All-in-One SDK (v68.0.0)**  
 
----
 
 ## Project Setup
 
@@ -45,7 +43,6 @@ This repository contains **two** applications:
    - Launch the **client** on the headset.  
    - The two applications communicate via the PC Link plugin.
 
----
 
 ## Credits
 
