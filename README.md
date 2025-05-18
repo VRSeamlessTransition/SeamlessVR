@@ -50,5 +50,13 @@ This repository contains **two** applications:
 - If you use **SeamlessVR** in a publication, please cite the corresponding paper:
 
 > **“SeamlessVR: Bridging the Immersive to Non-Immersive Visualization Divide”**
+> @article{liao2025seamlessvr,
+  title={SeamlessVR: Bridging the Immersive to Non-Immersive Visualization Divide},
+  author={Liao, Shuqi and Chaudhri, Sparsh and Karwa, Maanas K and Popescu, Voicu},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
+  year={2025},
+  publisher={IEEE}
+}
+> [DOI: 10.1109/TVCG.2025.3549564](https://ieeexplore.ieee.org/document/10918852)
 
 For questions or feedback, please [open an issue](../../issues) or contact the authors.
